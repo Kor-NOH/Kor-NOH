@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img alt="Python" src ="https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=PYTHON&logoColor=#3776AB"/>
+  <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=PYTHON&logoColor=#3776AB"/>
   #3776AB
 </div>
 
