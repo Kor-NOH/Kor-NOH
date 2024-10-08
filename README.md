@@ -21,7 +21,7 @@
 
 <div align="center>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=40&section=footer&text=&fontSize=0" width="100%"/>
-  
+  <img src="https://github.com/Kor-NOH/Kor-NOH/blob/output/github-snake-dark.svg" width="100%">
   <br>
   
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKor-NOH%2Fhit-counter&count_bg=%23FF5400&title_bg=%23555555&icon=smugmug.svg&icon_color=%23E7E7E7&title=Hello&edge_flat=false)](https://hits.seeyoufarm.com)
