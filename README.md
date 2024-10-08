@@ -21,8 +21,7 @@
 </a>
 </div>
 
-<div align="center>
-  <a></a>
+<div align="center">  
   
   <img src="https://github.com/Kor-NOH/Kor-NOH/blob/output/github-snake-dark.svg" width="100%">
 
