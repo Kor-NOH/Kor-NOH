@@ -4,8 +4,6 @@
   <h1> ✨ Hello ✨</h3>
   <p> I'm interested in the field of AI. </p>
 
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKor-NOH%2Fhit-counter&count_bg=%23FF5400&title_bg=%23555555&icon=smugmug.svg&icon_color=%23E7E7E7&title=Hello&edge_flat=false)](https://hits.seeyoufarm.com)
-    
 </div>
 
 <div align="center">
